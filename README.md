@@ -1,4 +1,4 @@
-# Universal Android Debloater GUI
+# Universal Android Debloater GUI (New Generation)
 
 **DISCLAIMER**: Use at your own risk. I am not responsible for anything that
 could happen to your phone.
