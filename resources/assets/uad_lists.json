@@ -17466,7 +17466,7 @@
     "dependencies": [],
     "neededBy": [],
     "labels": [],
-    "removal": "Recommended"
+    "removal": "Expert"
   },
   {
     "id": "com.google.android.street",
@@ -21580,6 +21580,33 @@
     "neededBy": [],
     "labels": [],
     "removal": "Expert"
+  },
+  {
+    "id": "com.google.android.apps.wear.companion",
+    "list": "Oem",
+    "description": "Google Wear Compannion App",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Expert"
+  },
+  {
+    "id": "com.google.android.apps.weather",
+    "list": "Oem",
+    "description": "Google Weather App",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Recommended"
+  },
+  {
+    "id": "com.google.android.apps.tips",
+    "list": "Oem",
+    "description": "Google Pixel Tips app",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
   },
   {
     "id": "com.android.modulemetadata",
